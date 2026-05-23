@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Background mountain peaks silhouette behind the bike -->
+    <path
+        android:fillColor="#FF9F1C"
+        android:pathData="M24,68 L44,40 L60,58 L78,34 L92,68 Z" />
+
+    <!-- Motorcycle silhouette vector -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,68 C34,62.5 38.5,58 44,58 C49.5,58 54,62.5 54,68 C54,73.5 49.5,78 44,78 C38.5,78 34,73.5 34,68 Z M74,68 C74,62.5 78.5,58 84,58 C89.5,58 94,62.5 94,68 C94,73.5 89.5,78 84,78 C78.5,78 74,73.5 74,68 Z" />
+        
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M44,68 L54,50 L72,50 L84,68 M54,50 L48,34 L38,34 M66,50 L56,68 M72,50 L84,68" />
+</vector>

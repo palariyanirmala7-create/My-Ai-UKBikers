@@ -1,0 +1,6 @@
+{
+  "name": "UKBikers",
+  "description": "Bike taxi booking and tourist guide for Nainital and Ramnagar, Uttarakhand mountain roads",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
